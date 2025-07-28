@@ -1,2 +1,3 @@
-# Portfolio
-Creating my own portfolio
+TASK1 IS THE PORTFOLIO
+TASK2 IS THE LANDING PAGE
+TASK3 IS THE CALCULATOR
